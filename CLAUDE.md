@@ -28,3 +28,10 @@
 1. logs/ フォルダの最新ファイルを読み込むこと
 2. 前回の作業内容・進行フェーズを把握してから作業を開始すること
 3. 把握した内容を冒頭で報告してから作業に入ること
+
+# このチャットとの連携方法
+- リポジトリはPublicのため、claude.aiから直接参照可能
+- 新スレッド開始時は以下URLをclaude.aiに貼り付けること
+  - https://raw.githubusercontent.com/naste-okada/claude-workspace/main/CLAUDE.md
+  - https://raw.githubusercontent.com/naste-okada/claude-workspace/main/logs/YYYYMMDD.md（最新）
+- ログのURLは作業日ごとに追加すること
